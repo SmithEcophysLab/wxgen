@@ -1,0 +1,17 @@
+{
+    "name":     "Lubbock",
+    "state":    "TX",
+    "high":     {
+        "avg":  25.5,
+        "std":  4.5
+    },
+    "low":      {
+        "avg":  8.3,
+        "std":  4.5
+    },
+    "precip":   {
+        "yamt": 100.0,
+        "std":  10.0,
+        "days": 15.0
+    }
+}
